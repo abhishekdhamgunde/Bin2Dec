@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="enter_binary_number">Enter Binary Number</string>
+    <string name="button_convert">Convert</string>
+</resources>
